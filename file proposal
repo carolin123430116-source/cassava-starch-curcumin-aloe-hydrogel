@@ -1,0 +1,44 @@
+cassava-starch-curcumin-aloe-hydrogel/
+│
+├── README.md
+│
+├── 01-literature-review/
+│   ├── jurnal-referensi/
+│   ├── kajian-literatur.md
+│   └── research-gap.md
+│
+├── 02-research-design/
+│   ├── proposal-penelitian.pdf
+│   ├── formulasi-awal.xlsx
+│   ├── variabel-penelitian.md
+│   └── diagram-alir.png
+│
+├── 03-materials-and-procedures/
+│   ├── daftar-alat-bahan.xlsx
+│   ├── prosedur-nanoemulsi.md
+│   ├── prosedur-hidrogel.md
+│   └── prosedur-karakterisasi.md
+│
+├── 04-experimental-data/
+│   ├── nanoemulsion/
+│   ├── hydrogel/
+│   ├── mechanical-test/
+│   ├── swelling-test/
+│   └── release-test/
+│
+├── 05-data-analysis/
+│   ├── calculation.xlsx
+│   ├── statistical-analysis/
+│   ├── graphs/
+│   └── analysis-notes.md
+│
+├── 06-design-and-documentation/
+│   ├── hydrogel-design/
+│   ├── packaging-design/
+│   ├── experimental-photos/
+│   └── flowchart/
+│
+└── 07-reports/
+    ├── progress-report/
+    ├── final-report/
+    └── presentation/
